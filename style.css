@@ -1,0 +1,72 @@
+ul {
+  display: block;
+  font-size: 150%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+.ulQ{
+  display: none;
+}
+.liQ{
+  font-size: 120%;
+}
+#divulliQ{
+  padding-bottom: 1%;
+}
+#ulli1{
+  display: block;
+}
+.ulli1Q{
+  font-weight: bold;
+  font-size: 120%;
+}
+#Programming{
+  display: inline;
+}
+
+body {
+text-align: center;
+ color: #005792;
+ font-family: 'El Messiri', sans-serif;
+ /*background: linear-gradient(-45deg, #075f63, #49beb6, #fccf5a, #ff5959);
+ background-size: 1000000000% 100000000%;
+ -webkit-animation: Gradient 20s ease infinite;
+ -moz-animation: Gradient 15s ease infinite;
+ animation: Gradient 20s ease infinite;
+*/}
+/*
+@-webkit-keyframes Gradient {
+ 0% {
+  background-position: 0% 50%
+ }
+ 50% {
+  background-position: 100% 50%
+ }
+ 100% {
+  background-position: 0% 50%
+ }
+}
+
+@-moz-keyframes Gradient {
+ 0% {
+  background-position: 0% 50%
+ }
+ 50% {
+  background-position: 100% 50%
+ }
+ 100% {
+  background-position: 0% 50%
+ }
+}
+
+@keyframes Gradient {
+ 0% {
+  background-position: 0% 25%
+ }
+ 50% {
+  background-position: 100% 20%
+ }
+ 100% {
+  background-position: 0% 25%
+ }
+} */
