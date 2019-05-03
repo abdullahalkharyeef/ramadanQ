@@ -10,7 +10,7 @@
       document.getElementById("{Ved1}").style.display= 'none';
     });
 
-    const liOne = document.getElementById("start");
+    const liOne = document.getElementsByClassName("start");
     liOne.addEventListener('click', function GoliOne (){
       document.getElementById("ul1").style.display= 'none';
       document.getElementById("ulli1").style.display= 'block';
