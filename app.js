@@ -12,7 +12,7 @@
       document.getElementById("ulli1Q7").style.display= 'none';
       document.getElementById("ulli1Q8").style.display= 'none';
       document.getElementById("ulli1Q9").style.display= 'none';
-      document.getElementById("ulli1Q10").style.display= 'none;
+      document.getElementById("ulli1Q10").style.display= 'none';
       document.getElementById("ulli1Q11").style.display= 'none';
       document.getElementById("ulli1Q12").style.display= 'none';
       document.getElementById("ulli1Q13").style.display= 'none';
@@ -41,7 +41,7 @@
       document.getElementById("ulli1Q7").style.display= 'none';
       document.getElementById("ulli1Q8").style.display= 'none';
       document.getElementById("ulli1Q9").style.display= 'none';
-      document.getElementById("ulli1Q10").style.display= 'none;
+      document.getElementById("ulli1Q10").style.display= 'none';
       document.getElementById("ulli1Q11").style.display= 'none';
       document.getElementById("ulli1Q12").style.display= 'none';
       document.getElementById("ulli1Q13").style.display= 'none';
