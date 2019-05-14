@@ -7,7 +7,16 @@
       document.getElementById("ulli1Q2").style.display= 'none';
       document.getElementById("ulli1Q3").style.display= 'none';
       document.getElementById("ulli1Q4").style.display= 'none';
-      document.getElementById("{Ved1}").style.display= 'none';
+      document.getElementById("ulli1Q5").style.display= 'none';
+      document.getElementById("ulli1Q6").style.display= 'none';
+      document.getElementById("ulli1Q7").style.display= 'none';
+      document.getElementById("ulli1Q8").style.display= 'none';
+      document.getElementById("ulli1Q9").style.display= 'none';
+      document.getElementById("ulli1Q10").style.display= 'none;
+      document.getElementById("ulli1Q11").style.display= 'none';
+      document.getElementById("ulli1Q12").style.display= 'none';
+      document.getElementById("ulli1Q13").style.display= 'none';
+      document.getElementById("Ved1").style.display= 'none';
     });
 
     const liOne = document.getElementById("start");
@@ -27,6 +36,15 @@
       document.getElementById("ulli1Q2").style.display= 'none';
       document.getElementById("ulli1Q3").style.display= 'none';
       document.getElementById("ulli1Q4").style.display= 'none';
+      document.getElementById("ulli1Q5").style.display= 'none';
+      document.getElementById("ulli1Q6").style.display= 'none';
+      document.getElementById("ulli1Q7").style.display= 'none';
+      document.getElementById("ulli1Q8").style.display= 'none';
+      document.getElementById("ulli1Q9").style.display= 'none';
+      document.getElementById("ulli1Q10").style.display= 'none;
+      document.getElementById("ulli1Q11").style.display= 'none';
+      document.getElementById("ulli1Q12").style.display= 'none';
+      document.getElementById("ulli1Q13").style.display= 'none';
       document.getElementById("ul1").style.display= 'block';
     });
 
